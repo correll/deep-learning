@@ -1,2 +1,1 @@
-# deep-learning
-Repository for the "Applied Deep Learning Class" in Spring 2020
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/correll/deep-learning/master)
