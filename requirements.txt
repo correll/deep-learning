@@ -1,5 +1,6 @@
 numpy
-intel-scipy
+mkl
+scipy
 scikit-learn
 pillow
 h5py
