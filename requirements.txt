@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn
+pillow
+h5py
+Theano
+keras
