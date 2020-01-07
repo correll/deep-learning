@@ -1,5 +1,4 @@
 numpy
-mkl
 scipy
 scikit-learn
 pillow
