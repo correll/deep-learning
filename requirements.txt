@@ -5,4 +5,5 @@ scikit-learn
 pillow
 h5py
 Theano
+tensorflow
 keras
