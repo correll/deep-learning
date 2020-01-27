@@ -2,6 +2,7 @@ numpy
 matplotlib
 scipy
 scikit-learn
+scikit-image
 pillow
 h5py
 Theano
