@@ -8,3 +8,4 @@ h5py
 Theano
 tensorflow
 keras
+certifi
