@@ -26,7 +26,7 @@ class Actor(object):
                        activation='relu'))
         self.model.add(Dense(hidden_size, activation='relu'))
         self.model.add(Dense(output_size, activation='tanh'))
-        self.model.compile(loss='mse', optimizer=Adam(lr=0.0001))
+        self.model.compile(loss='mse', optimizer=Adam(lr=0.001))
 
     def act(self, state):
         state = np.array([state])
