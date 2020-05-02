@@ -1,0 +1,109 @@
+----------------------
+Channel signal checking for file: /2020-04-27_010
+----------------------
+
+Channel value: (0) is OKAY.
+Channel value: (1) is OKAY.
+Channel value: (2) is OKAY.
+Channel value: (3) is OKAY.
+Channel value: (4) is OKAY.
+Channel value: (5) is OKAY.
+Channel value: (6) is OKAY.
+Channel value: (7) is OKAY.
+Channel value: (8) is OKAY.
+Channel value: (9) is OKAY.
+Channel value: (10) is OKAY.
+Channel value: (11) is OKAY.
+Channel value: (12) is OKAY.
+Channel value: (13) is OKAY.
+Channel value: (14) is OKAY.
+Channel value: (15) is above the acceptable threshold.
+Channel value: (16) is OKAY.
+Channel value: (17) is OKAY.
+Channel value: (18) is above the acceptable threshold.
+Channel value: (19) is OKAY.
+Channel value: (20) is above the acceptable threshold.
+Channel value: (21) is above the acceptable threshold.
+Channel value: (22) is OKAY.
+Channel value: (23) is OKAY.
+Channel value: (24) is OKAY.
+Channel value: (25) is OKAY.
+Channel value: (26) is above the acceptable threshold.
+Channel value: (27) is OKAY.
+Channel value: (28) is OKAY.
+Channel value: (29) is OKAY.
+Channel value: (30) is OKAY.
+Channel value: (31) is OKAY.
+Channel value: (32) is above the acceptable threshold.
+Channel value: (33) is OKAY.
+Channel value: (34) is OKAY.
+Channel value: (35) is OKAY.
+Channel value: (36) is OKAY.
+Channel value: (37) is OKAY.
+Channel value: (38) is OKAY.
+Channel value: (39) is OKAY.
+Channel value: (40) is OKAY.
+Channel value: (41) is above the acceptable threshold.
+Channel value: (42) is OKAY.
+Channel value: (43) is OKAY.
+Channel value: (44) is OKAY.
+Channel value: (45) is above the acceptable threshold.
+Channel value: (46) is OKAY.
+Channel value: (47) is OKAY.
+Channel value: (48) is OKAY.
+Channel value: (49) is OKAY.
+Channel value: (50) is OKAY.
+Channel value: (51) is OKAY.
+Channel value: (52) is OKAY.
+Channel value: (53) is OKAY.
+Channel value: (54) is OKAY.
+Channel value: (55) is OKAY.
+Channel value: (56) is OKAY.
+Channel value: (57) is OKAY.
+Channel value: (58) is OKAY.
+Channel value: (59) is OKAY.
+Channel value: (60) is OKAY.
+Channel value: (61) is OKAY.
+Channel value: (62) is OKAY.
+Channel value: (63) is OKAY.
+Channel value: (64) is OKAY.
+Channel value: (65) is OKAY.
+Channel value: (66) is above the acceptable threshold.
+Channel value: (67) is OKAY.
+Channel value: (68) is above the acceptable threshold.
+Channel value: (69) is above the acceptable threshold.
+Channel value: (70) is OKAY.
+Channel value: (71) is OKAY.
+Channel value: (72) is OKAY.
+Channel value: (73) is OKAY.
+Channel value: (74) is above the acceptable threshold.
+Channel value: (75) is OKAY.
+Channel value: (76) is OKAY.
+Channel value: (77) is OKAY.
+Channel value: (78) is OKAY.
+Channel value: (79) is OKAY.
+Channel value: (80) is above the acceptable threshold.
+Channel value: (81) is OKAY.
+Channel value: (82) is OKAY.
+Channel value: (83) is OKAY.
+Channel value: (84) is OKAY.
+Channel value: (85) is OKAY.
+Channel value: (86) is OKAY.
+Channel value: (87) is OKAY.
+Channel value: (88) is OKAY.
+Channel value: (89) is OKAY.
+Channel value: (90) is OKAY.
+Channel value: (91) is OKAY.
+Channel value: (92) is OKAY.
+Channel value: (93) is OKAY.
+Channel value: (94) is OKAY.
+Channel value: (95) is OKAY.
+----------------------
+Summary of file: /2020-04-27_010
+----------------------
+
+Total Channels : 96
+Validity Threshold : 0.07
+Proportion acceptable : 0.865
+83 have acceptable signal quality.
+13 have inadequate signal quality.
